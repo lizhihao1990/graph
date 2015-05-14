@@ -1,2 +1,4 @@
-a=1:100
-plot(a)
+library(ggplot2)
+library(dplyr)
+library(tidyr)
+a=1:10
